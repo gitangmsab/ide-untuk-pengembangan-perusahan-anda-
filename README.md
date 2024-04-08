@@ -1,7 +1,7 @@
 # ide-untuk-pengembangan-perusahan
 repositori untuk menyimpan rencana gitang ke depan:
 
-1.P Membangun platform online yang memungkinkan perusahaan dari berbagai negara dan sektor untuk berkolaborasi dalam menciptakan solusi inovatif untuk masalah global seperti perubahan iklim, kesehatan masyarakat, atau kemiskinan.
+1. Membangun platform online yang memungkinkan perusahaan dari berbagai negara dan sektor untuk berkolaborasi dalam menciptakan solusi inovatif untuk masalah global seperti perubahan iklim, kesehatan masyarakat, atau kemiskinan.
 
 2. Mengembangkan teknologi yang berfokus pada energi terbarukan, pengurangan limbah, atau penggunaan bahan-bahan ramah lingkungan untuk mengurangi dampak lingkungan dari operasi bisnis.
 
